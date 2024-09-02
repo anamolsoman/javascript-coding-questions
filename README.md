@@ -1,3 +1,3 @@
 # Javascript Coding Questions
 
-- Flatten the Array [file](https://github.com/anamolsoman2/repository/blob/main/path/to/file.ext).
+- [Flatten the Array](https://github.com/anamolsoman/javascript-coding-questions/blob/main/flattenArray.js).
