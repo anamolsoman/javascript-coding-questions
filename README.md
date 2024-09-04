@@ -8,3 +8,7 @@
 - [Promise.finall() Polyfill](https://github.com/anamolsoman/javascript-coding-questions/blob/main/promiseFinally-polyfill.js).
 - [Promise.allSettled() Polyfill](hhttps://github.com/anamolsoman/javascript-coding-questions/blob/main/promiseAllSettled-polyfill.js).
 - [next code](https://github.com/anamolsoman/javascript-coding-questions).
+
+# Design Patterns
+
+- [Observer Pattern]().
