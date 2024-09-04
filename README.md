@@ -11,4 +11,4 @@
 
 # Design Patterns
 
-- [Observer Pattern]().
+- [Observer Pattern](https://github.com/anamolsoman/javascript-coding-questions/blob/main/Design%20Patterns/observer-pattern.js).
