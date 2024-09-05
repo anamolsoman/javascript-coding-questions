@@ -9,6 +9,9 @@ Finished
 58. Observer design pattern
 61. Array iterator
 8. Execute async functions in Parallel
+81. First and last occurrence of a number in the sorted array
+56. Implement browser history
+
 
 
 
@@ -62,7 +65,6 @@ Remaining
 53. Deep flatten object
 54. Restrict modifications of objects
 55. Merge objects
-56. Implement browser history
 57. Singleton design pattern
 59. Implement groupBy() method
 60. Compare two array or object
@@ -85,7 +87,6 @@ Remaining
 78. Throttle an array of tasks
 79. Decode a string
 80. Trie data structure
-81. First and last occurrence of a number in the sorted array
 82. Piping function - part 1
 83. Piping function - part 2
 84. Create analytics SDK

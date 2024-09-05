@@ -35,6 +35,10 @@ const retryWithDelay = async (
   }
 };
 
+const wait = (ms) => {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+};
+
 // Test the code
 const test = async () => {
   await retryWithDelay(getTestFunc(), 10);
