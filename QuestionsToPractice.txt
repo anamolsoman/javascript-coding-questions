@@ -6,12 +6,15 @@ Finished
 4. Promise.finally() polyfill
 5. Promise.allSettled() polyfill
 7. Execute async functions in Series
+58. Observer design pattern
+61. Array iterator
+8. Execute async functions in Parallel
+
 
 
 Remaining
 
 6. Custom Promise
-8. Execute async functions in Parallel
 9. Retry promises N number of times
 10. Implement mapSeries async function
 11. Implement mapLimit async function
@@ -26,7 +29,6 @@ Remaining
 20. Implement two stacks with an array
 21. Implement Priority Queue
 22. Implement LRU cache
-© JavaScript Interview Guide | learnersbucket.com 6
 23. Implement debounce function
 24. Implement debounce with immediate flag
 25. Implement throttle function
@@ -60,13 +62,10 @@ Remaining
 53. Deep flatten object
 54. Restrict modifications of objects
 55. Merge objects
-© JavaScript Interview Guide | learnersbucket.com 7
 56. Implement browser history
 57. Singleton design pattern
-58. Observer design pattern
 59. Implement groupBy() method
 60. Compare two array or object
-61. Array iterator
 62. Array with event listeners
 63. Filter array of objects on value or index
 64. Aggregate array of objects on the given key
