@@ -6,7 +6,7 @@
 - [Promise.any() Polyfill](https://github.com/anamolsoman/javascript-coding-questions/blob/main/promiseAny-polyfill.js).
 - [Promise.race() Polyfill](https://github.com/anamolsoman/javascript-coding-questions/blob/main/promiseRace-polyfill.js).
 - [Promise.finall() Polyfill](https://github.com/anamolsoman/javascript-coding-questions/blob/main/promiseFinally-polyfill.js).
-- [Promise.allSettled() Polyfill](hhttps://github.com/anamolsoman/javascript-coding-questions/blob/main/promiseAllSettled-polyfill.js).
+- [Promise.allSettled() Polyfill](https://github.com/anamolsoman/javascript-coding-questions/blob/main/promiseAllSettled-polyfill.js).
 - [Execute async functions in Series](https://github.com/anamolsoman/javascript-coding-questions/blob/main/async-function.js).
 - [Execute async functions in Parallel](https://github.com/anamolsoman/javascript-coding-questions/blob/main/parallel-tasks.jss).
 - [Array iterator](https://github.com/anamolsoman/javascript-coding-questions/blob/main/array-iterator.js).
