@@ -13,6 +13,8 @@ Finished
 56. Implement browser history
 29. Create a toggle function
 30. Create a sampling function
+31. Make function sleep
+
 
 
 
@@ -39,7 +41,6 @@ Remaining
 26. Implement custom Instanceof
 27. Check if function is called with new keyword
 28. Implement hashSet
-31. Make function sleep
 32. Remove cycle from the object
 33. Filter multidimensional array
 34. Count element in multidimensional array
