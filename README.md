@@ -22,6 +22,7 @@
 - [Map() Polyfill](https://github.com/anamolsoman/map-polyfill).
 - [Filter() Polyfill](https://github.com/anamolsoman/filter-polyfill).
 - [Reduce() Polyfill](https://github.com/anamolsoman/reduce-polyfill).
+- [Memoization() Polyfill](https://github.com/anamolsoman/memoization-function).
 - [next code](https://github.com/anamolsoman/javascript-coding-questions).
 
 # Design Patterns

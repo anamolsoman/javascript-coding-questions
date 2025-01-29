@@ -17,7 +17,6 @@ function memoize(func) {
       console.log("calculated the result");
       cache.set(key, res);
     }
-    console.log(cache);
     return res;
   };
 }
