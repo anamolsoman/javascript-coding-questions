@@ -20,6 +20,7 @@
 - [Create a sampling function](https://github.com/anamolsoman/javascript-coding-questions/blob/main/sampler-function.js).
 - [Make function sleep](https://github.com/anamolsoman/javascript-coding-questions/blob/main/sleep-function.js).
 - [Map() Polyfill](https://github.com/anamolsoman/map-polyfill).
+- [Filter() Polyfill](https://github.com/anamolsoman/filter-polyfill).
 - [next code](https://github.com/anamolsoman/javascript-coding-questions).
 
 
