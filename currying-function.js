@@ -2,6 +2,8 @@
 
 //Example
 
+
+
 function multiplyBy(a) {
   return (b) => {
     return a * b;
