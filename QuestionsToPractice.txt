@@ -22,6 +22,43 @@ Finished
 
 Remaining
 
+    Reverse a String
+    Palindrome Check
+    Find the Longest Word in a Sentence
+    Factorial Calculation
+    Find the Largest Number in an Array
+    Fibonacci Sequence
+    Array Flattening
+    Remove Duplicates from an Array
+    Sum of All Numbers in a Range
+    Anagram Check
+    Find the First Non-Repeating Character in a String
+    Implement a Simple Queue
+    Binary Search Implementation
+    Merge Two Sorted Arrays
+    Debounce Function
+    Throttle Function
+    Deep Clone an Object
+    Find the Intersection of Two Arrays
+    Infinite Currying
+    Check for Balanced Parentheses
+    Implement a Basic Promise
+    Find the Missing Number in an Array
+    Rotate an Array
+    Calculate the nth Prime Number
+    Find the Maximum Subarray Sum (Kadane's Algorithm)
+    Longest Substring Without Repeating Characters
+    Implement a Simple Stack
+    Find All Prime Numbers up to a Given Number
+    Sort an Array of Objects by a Property
+    Count the Number of Occurrences of Each Character in a String
+    Find the GCD (Greatest Common Divisor) of Two Numbers
+    Convert a String to Title Case
+    Generate All Permutations of a String
+    Check if a Number is a Power of Two
+    Merge Intervals
+    Find the Longest Common Prefix Among a Set of Strings
+    
 6. Custom Promise
 9. Retry promises N number of times
 10. Implement mapSeries async function
