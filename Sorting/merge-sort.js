@@ -13,16 +13,22 @@ function MergeSort(arr) {
   // left = [27]
   // right = [43]
 
-  console.log(left, right);
   let merged = [];
 
-  if (left < right) {
-    merged.push(left);
-  } else {
-    merged.push(right);
+  let leftIndex = 0;
+  let rightIndex = 0;
+
+  while (leftIndex < left.length && rightIndex < right.length) {
+    if (left[leftIndex] < right[rightIndex]) {
+      merged.push(left[leftIndex]);
+      leftIndex++;
+    } else {
+      merged.push(right[rightIndex]);
+      rightIndex++;
+    }
   }
-  console.log(merged);
-  return merged;
+
+  return merged.concat(left.slice(leftIndex), right.slice(rightIndex));
 }
 
 console.log(MergeSort(arr));
