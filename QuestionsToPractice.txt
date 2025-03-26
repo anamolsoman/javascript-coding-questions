@@ -1,5 +1,42 @@
 Finished
 
+Reverse a String
+Palindrome Check
+Find the Longest Word in a Sentence
+Factorial Calculation
+Find the Largest Number in an Array
+Fibonacci Sequence
+Array Flattening
+Remove Duplicates from an Array
+Sum of All Numbers in a Range
+Anagram Check
+Find the First Non-Repeating Character in a String
+Implement a Simple Queue
+Binary Search Implementation
+Merge Two Sorted Arrays
+Debounce Function
+Throttle Function
+Deep Clone an Object
+Find the Intersection of Two Arrays
+Infinite Currying
+Check for Balanced Parentheses
+Implement a Basic Promise
+Find the Missing Number in an Array
+Rotate an Array
+Calculate the nth Prime Number
+Find the Maximum Subarray Sum (Kadane's Algorithm)
+Longest Substring Without Repeating Characters
+Implement a Simple Stack
+Find All Prime Numbers up to a Given Number
+Sort an Array of Objects by a Property
+Count the Number of Occurrences of Each Character in a String
+Find the GCD (Greatest Common Divisor) of Two Numbers
+Convert a String to Title Case
+Generate All Permutations of a String
+Check if a Number is a Power of Two
+Merge Intervals
+Find the Longest Common Prefix Among a Set of Strings
+
 1. Promise.all() polyfill
 2. Promise.any() polyfill
 3. Promise.race() polyfill
@@ -14,51 +51,50 @@ Finished
 58. Observer design pattern
 61. Array iterator
 81. First and last occurrence of a number in the sorted array
+Flatten deeply nested array with depth - https://lnkd.in/g8PSad_G
 
 
+Infinite currying
+Clone deeply nested objects
+Debouncing
+Throttling
+Call, apply, bind
+Polyfill for map, filter, reduce
+Event delegation
+Shallow copy vs deep copy
+Difference between setTimeout and setInterval
+Event loop basics
+
+✅ Medium
+Promises.all, promises.allSettled
+Promise chaining
+Cache with time limit
+https://lnkd.in/grJxDcN4
+Memoize
+https://lnkd.in/guF5raKQ
+
+Nested array generator
+https://lnkd.in/gDFEa5UG
+Create your own bind method
+Implement custom instanceof
+Currying with placeholders
+Debounce and throttle as reusable utility functions
+
+✅ Hard
+Promise time limit
+https://lnkd.in/gsiDVskc
+Execute asynchronous functions in parallel
+https://lnkd.in/gGX8d8ia
+Call function with custom context
+https://lnkd.in/gj-rjJGd
+Design cancellable function
+https://lnkd.in/guRbU5Rk
+Implement async/await using generators
+Microtasks vs macrotasks (with practical examples)
+Write your own event emitter
+Custom promise implementation
 
 
-
-
-Remaining
-
-    Reverse a String
-    Palindrome Check
-    Find the Longest Word in a Sentence
-    Factorial Calculation
-    Find the Largest Number in an Array
-    Fibonacci Sequence
-    Array Flattening
-    Remove Duplicates from an Array
-    Sum of All Numbers in a Range
-    Anagram Check
-    Find the First Non-Repeating Character in a String
-    Implement a Simple Queue
-    Binary Search Implementation
-    Merge Two Sorted Arrays
-    Debounce Function
-    Throttle Function
-    Deep Clone an Object
-    Find the Intersection of Two Arrays
-    Infinite Currying
-    Check for Balanced Parentheses
-    Implement a Basic Promise
-    Find the Missing Number in an Array
-    Rotate an Array
-    Calculate the nth Prime Number
-    Find the Maximum Subarray Sum (Kadane's Algorithm)
-    Longest Substring Without Repeating Characters
-    Implement a Simple Stack
-    Find All Prime Numbers up to a Given Number
-    Sort an Array of Objects by a Property
-    Count the Number of Occurrences of Each Character in a String
-    Find the GCD (Greatest Common Divisor) of Two Numbers
-    Convert a String to Title Case
-    Generate All Permutations of a String
-    Check if a Number is a Power of Two
-    Merge Intervals
-    Find the Longest Common Prefix Among a Set of Strings
-    
 6. Custom Promise
 9. Retry promises N number of times
 10. Implement mapSeries async function

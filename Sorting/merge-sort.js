@@ -1,29 +1,27 @@
-let arr = [38, 27, 43, 3, 9, 82, 10];
+let arr = [38, 27, 43];
 
 function MergeSort(arr) {
   if (arr.length <= 1) {
     return arr;
   }
   let mid = Math.floor(arr.length / 2);
+  // mid = 27
   let left = MergeSort(arr.slice(0, mid));
+  // left = [38] -> base condition -> returned
   let right = MergeSort(arr.slice(mid));
+  // right = [27, 43] - 1
+  // left = [27]
+  // right = [43]
 
+  console.log(left, right);
   let merged = [];
-  let i = 0;
-  let j = 0;
-  while (i < left.length && j < left.length) {
-    if (left[i] < right[j]) {
-      merged.push(left[i]);
-      i++;
-    } else {
-      merged.push(right[j]);
-      j++;
-    }
+
+  if (left < right) {
+    merged.push(left);
+  } else {
+    merged.push(right);
   }
-
-  merged.push(...left.slice(i));
-  merged.push(...right.slice(j));
-
+  console.log(merged);
   return merged;
 }
 

@@ -24,6 +24,9 @@
 - [Reduce() Polyfill](https://github.com/anamolsoman/reduce-polyfill).
 - [Memoization() Polyfill](https://github.com/anamolsoman/memoization-function).
 - [Infinite Currying](https://github.com/anamolsoman/infinte-currying).
+- [Bubble Sort](https://github.com/anamolsoman/javascript-coding-questions).
+- [Selection Sort](https://github.com/anamolsoman/javascript-coding-questions).
+- [Merge Sort](https://github.com/anamolsoman/javascript-coding-questions).
 - [next code](https://github.com/anamolsoman/javascript-coding-questions).
 
 # Design Patterns
