@@ -22,3 +22,5 @@ while (left < right) {
 }
 
 console.log(pair);
+
+fetch("https://anamol.me").then((val) => console.log(val));
