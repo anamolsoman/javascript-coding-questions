@@ -13,6 +13,7 @@ Find the Missing Number in an Array (n*n+1)/2
 Find the Largest Number in an Array
 Find the Longest Word in a Sentence
 Check for Balanced Parentheses
+Design Cancellable Function
 
 
 Tried But Failed 
@@ -53,8 +54,6 @@ Fibonacci Sequence
 Array Flattening (Flatten deeply nested array with depth)
 Remove Duplicates from an Array
 Anagram Check
-Check for Balanced Parentheses
-Merge Two Sorted Arrays
 Search is rotated sorted array
 Find the Intersection of Two Arrays
 Best Time to Buy and Sell Stock
@@ -69,7 +68,6 @@ Generate All Permutations of a String
 Check if a Number is a Power of Two
 Find the Longest Common Prefix Among a Set of Strings
 First and last occurrence of a number in a sorted array
-JavaScript Concepts & Patterns
 Implement a Simple Queue
 Implement a Simple Stack
 Deep Clone an Object (Clone deeply nested objects)
@@ -93,7 +91,6 @@ Nested Array Generator
 Implement Custom instanceof
 Promise Time Limit
 Call Function with Custom Context
-Design Cancellable Function
 Implement Async/Await Using Generators
 
 6. Custom Promise
