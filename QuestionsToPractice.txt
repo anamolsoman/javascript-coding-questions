@@ -14,6 +14,7 @@ Find the Largest Number in an Array
 Find the Longest Word in a Sentence
 Check for Balanced Parentheses
 Design Cancellable Function
+Palindrome Check
 
 
 Tried But Failed 
@@ -48,7 +49,6 @@ Object.assign() polyfill
 JSON.stringify() polyfill
 JSON.parse() polyfill
 Custom promise implementation
-Palindrome Check
 Factorial Calculation
 Fibonacci Sequence
 Array Flattening (Flatten deeply nested array with depth)
