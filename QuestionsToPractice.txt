@@ -15,7 +15,7 @@ Find the Longest Word in a Sentence
 Check for Balanced Parentheses
 Design Cancellable Function
 Palindrome Check
-
+Make Function Sleep (using settimeout and promise)
 
 Tried But Failed 
 Find the Maximum Subarray Sum (Kadane's Algorithm)
@@ -83,7 +83,6 @@ Execute Async Functions in Series
 Execute Async Functions in Parallel
 Create a Toggle Function
 Create a Sampling Function
-Make Function Sleep
 Implement Browser History
 Cache with Time Limit
 Memoize
