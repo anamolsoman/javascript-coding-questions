@@ -3,8 +3,8 @@
 //  Call method is used to change the "This " of any function
 let obj = { fname: "Anamol", lname: "Soman" };
 
-function printName() {
-  return this.fname + this.lname;
+function printName(loc) {
+  return this.fname + this.lname +loc;
 }
 
 
@@ -19,4 +19,4 @@ Function.prototype.customCall = function (context, ...args) {
 
 };
 
-console.log(printName.customCall(obj));
+console.log(printName.customCall(obj,'Pune'));
