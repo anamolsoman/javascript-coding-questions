@@ -1,1 +1,1 @@
-// Write a polyfill for the apply method
+// Write a polyfill for the apply metho
